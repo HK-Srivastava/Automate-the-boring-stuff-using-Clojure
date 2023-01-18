@@ -1,4 +1,4 @@
-# Automate-the-boring-stuff-using-Clojure
+# Automate-the-boring-stuff-with-Clojure
 Clojure codes for the famous book "Automate the boring stuff with python".
 
 #To-do
